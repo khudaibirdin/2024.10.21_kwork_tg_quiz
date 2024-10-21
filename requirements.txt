@@ -1,0 +1,5 @@
+aiogram
+SQLAlchemy
+oauth2client
+gspread
+APScheduler

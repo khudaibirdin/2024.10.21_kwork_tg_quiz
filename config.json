@@ -1,0 +1,11 @@
+{
+    "tg_api_token": "7649696970:AAEkGh6dc3vbVJUkchdu8CnwJRZVk_-5IrM",
+    "admin_id": [
+        506883020
+    ],
+    "google_api_json_path": "quiz-bot-439309-01a11dadf94a.json",
+    "google_table_url": "https://docs.google.com/spreadsheets/d/1pDRkVUtwfOm-dfqsPEPDOLMvA7KAkNaNh2t812Dayso/edit",
+    "quiz_random": true,
+    "period": 5,
+    "channel_id": "-1002470568257"
+}
