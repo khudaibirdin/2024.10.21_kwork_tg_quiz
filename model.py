@@ -12,3 +12,10 @@ class Quiz(Base):
     question = Column(String)
     answers = Column(String)
     correct = Column(String)
+
+
+class Settings(Base):
+    __tablename__ = 'settings'
+
+    id = Column(Integer, primary_key=True)
+    last_question_index = Column(Integer)

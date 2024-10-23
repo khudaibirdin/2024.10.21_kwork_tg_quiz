@@ -6,6 +6,6 @@
     "google_api_json_path": "quiz-bot-439309-01a11dadf94a.json",
     "google_table_url": "https://docs.google.com/spreadsheets/d/1pDRkVUtwfOm-dfqsPEPDOLMvA7KAkNaNh2t812Dayso/edit",
     "quiz_random": true,
-    "period": 5,
+    "period": 1,
     "channel_id": "-1002470568257"
 }
